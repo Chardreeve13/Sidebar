@@ -75,23 +75,30 @@
     cursor: pointer;
     }
 
-.social_media i .bx.bxl-facebook-circle{
+.social_media .bx.bxl-facebook-circle{
     padding: 0 5px;
     color:#4267b2;
     opacity: 1;
     font-size: 20px;
 }
 
-.social_media i .bx.bxl-facebook-circle {
+.social_media .bx.bxl-twitter {
     padding: 0 5px;
-    color: #4267b2;
+    color: #1da1f2;
     opacity: 1;
     font-size: 20px;
 }
 
-.social_media i .bx.bxl-twitter {
+.social_media .bx.bxl-instagram {
     padding: 0 5px;
-    color: #1da1f2;
+    color: #e1306c;
+    opacity: 1;
+    font-size: 20px;
+} 
+
+.social_media .bx.bxl-youtube {
+    padding: 0 5px;
+    color: #ff0000;
     opacity: 1;
     font-size: 20px;
 }
