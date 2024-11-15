@@ -84,7 +84,7 @@
 
 .social_media .bx.bxl-facebook-circle:hover{
     opacity: 1;
-    transition: all 0.2s linear;
+    transition: all 0.3s linear;
     font-size: 26px;
 }
 
@@ -97,7 +97,7 @@
 
 .social_media .bx.bxl-twitter:hover {
     opacity: 1;
-    transition: all 0.2s linear;
+    transition: all 0.3s linear;
     font-size: 26px;
 }
 
@@ -110,7 +110,7 @@
 
 .social_media .bx.bxl-instagram:hover {
     opacity: 1;
-    transition: all 0.2s linear;
+    transition: all 0.3s linear;
     font-size: 26px;
 }
 
@@ -123,6 +123,6 @@
 
 .social_media .bx.bxl-youtube:hover {
     opacity: 1;
-    transition: all 0.2s linear;
+    transition: all 0.3s linear;
     font-size: 26px;
 }
