@@ -72,4 +72,18 @@
     left: 50%;
     bottom: 20px;
     transform: translateX(-50%);
+    cursor: pointer;
+    }
+
+.social_media i{
+    padding: 0 5px;
+    color:#fff;
+    opacity: 0.6;
+    font-size: 20px;
+}
+
+.social_media i:hover{
+    opacity: 1;
+    transition: all 0.2s linear;
+    font-size: 26px;
 }
