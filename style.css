@@ -82,11 +82,23 @@
     font-size: 20px;
 }
 
+.social_media .bx.bxl-facebook-circle:hover{
+    opacity: 1;
+    transition: all 0.2s linear;
+    font-size: 26px;
+}
+
 .social_media .bx.bxl-twitter {
     padding: 0 5px;
     color: #1da1f2;
     opacity: 1;
     font-size: 20px;
+}
+
+.social_media .bx.bxl-twitter:hover {
+    opacity: 1;
+    transition: all 0.2s linear;
+    font-size: 26px;
 }
 
 .social_media .bx.bxl-instagram {
@@ -96,13 +108,20 @@
     font-size: 20px;
 } 
 
+.social_media .bx.bxl-instagram:hover {
+    opacity: 1;
+    transition: all 0.2s linear;
+    font-size: 26px;
+}
+
 .social_media .bx.bxl-youtube {
     padding: 0 5px;
     color: #ff0000;
     opacity: 1;
     font-size: 20px;
 }
-.social_media a i:hover{
+
+.social_media .bx.bxl-youtube:hover {
     opacity: 1;
     transition: all 0.2s linear;
     font-size: 26px;
