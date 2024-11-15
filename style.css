@@ -36,7 +36,7 @@
     font-size: 25px;
     font-weight: 500;
     position: absolute;
-    left: 50px;
+    left: 30px;
     line-height: 60px;
     text-decoration: none;
 }
@@ -146,11 +146,12 @@
 
 .sidebar_menu .btn_two i{
     font-size: 25px;
+    color: #180101;
     line-height: 60px;
     position: absolute;
-    left: 240px;
+    left: 250px;
     cursor: pointer;
-    opacity: 0;
+    opacity: 1;
     transition: all 0.3s linear;
 }
 
