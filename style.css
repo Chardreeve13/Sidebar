@@ -78,10 +78,14 @@
 .social_media i{
     padding: 0 5px;
     color:#fff;
-    opacity: 0.6;
+    opacity: 1;
     font-size: 20px;
 }
 
+.social_media .background{
+    align-items: center;
+    justify-content: center;
+}
 .social_media i:hover{
     opacity: 1;
     transition: all 0.2s linear;
