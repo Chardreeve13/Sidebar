@@ -66,3 +66,9 @@
     border-left: 1px solid #fff;
     box-shadow: 0 0 4px rgba(255, 255, 255, 0.8);;
 }
+
+.sidebar_menu .social_media{
+    position: absolute;
+    left: 50%;
+    bottom: 20px;
+}
